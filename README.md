@@ -16,19 +16,12 @@ Automatic music genre classification using Spotify's pre-computed audio features
 - **API licensing** — license the genre classification model to streaming platforms (Spotify, Apple Music, YouTube Music) for smarter auto-tagging and playlist curation
 - **White-label recommendation engine** — serve smaller streaming platforms that lack in-house ML teams
 
-### Content Creation Tools
-- **DAW plugin** — auto-tag and categorize tracks inside Ableton, Logic, or FL Studio as producers create them (SaaS, ~$10–30/month)
-- **Royalty-free library integration** — help catalogs like Epidemic Sound and Artlist auto-classify at scale
-
 ### Music Licensing & Sync
 - **Music supervisor search tool** — enable TV, film, and ad teams to search by genre, mood, and vibe with precision; manual tagging is a major industry pain point
 - **Stock music marketplace search** — improve discovery and metadata quality for licensing marketplaces
 
 ### Rights & Publishing
 - **PRO & distributor partnerships** — assist ASCAP, BMI, DistroKid, and TuneCore with automated genre classification for royalty routing
-
-### Radio & Broadcasting
-- **Broadcast compliance** — sell to iHeart, SiriusXM, and podcast platforms for automated playlist format management and genre consistency enforcement
 
 ### User-Facing Products
 - **Artist analysis app** — let artists upload tracks and receive instant genre positioning feedback (e.g. "73% Hyperpop, 20% PC Music")
