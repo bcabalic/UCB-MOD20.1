@@ -24,14 +24,6 @@ Automatic music genre classification using Spotify's pre-computed audio features
 
 ```
 ├── spotify_genre_classification_eda7.ipynb   # Main notebook
-├── fig_outlier_boxplots.png
-├── fig_genre_distribution.png
-├── fig_feature_histograms.png
-├── fig_feature_boxplots_rep.png
-├── fig_correlation_matrix.png
-├── fig_feature_discriminability.png
-├── fig_knn_k_selection.png
-├── fig_per_genre_f1.png
 └── README.md
 ```
 
