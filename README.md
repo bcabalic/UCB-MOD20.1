@@ -97,6 +97,3 @@ Six composite features were created to improve genre separation:
 
 ---
 
-## Author
-
-**Brian Cabalic** — Capstone Project, Module 16: EDA & Baseline Model
