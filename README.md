@@ -81,25 +81,6 @@ Six composite features were created to improve genre separation:
 | Macro F1 Score | See notebook output |
 | Random Chance Baseline | 0.88% (1/114) |
 
----
-
-## Installation
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
-```
-
-### Dependencies
-
-```
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-```
 
 ---
 
@@ -108,17 +89,11 @@ scikit-learn
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) and place `spotify_dataset.csv` in the project root (or update the path in cell 2).
 2. Run the notebook top-to-bottom:
 
-```bash
-jupyter notebook spotify_genre_classification_eda7.ipynb
-```
-
 ---
 
 ## Next Steps (Module 24)
 
-- Compare KNN baseline against SVM and ensemble methods (Random Forest, Gradient Boosting)
-- Investigate genre clustering and multi-label classification strategies
-- Explore dimensionality reduction (PCA, UMAP) for visualization and performance
+- TBD
 
 ---
 
